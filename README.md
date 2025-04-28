@@ -13,4 +13,4 @@ Download the model and Jupyter-notebook from the following Dropbox link
     
 Reference:
 
-    Paola Guevara, Jawad Fayaz, and Rodrigo Astroza (under-review). "A deep neural network framework for prediction of ice mass accumulation on wind turbine blades"
+    Paola Guevara, Jawad Fayaz, and Rodrigo Astroza (under-review). "Structural health monitoring of wind turbine blades by ice mass accumulation prediction using convolutional neural networks"
